@@ -1,0 +1,216 @@
+    /* ----------------------------------------------------------
+    :: Template Name: Karl - Fashion Ecommerce Template
+    :: Author: Colorlib
+    :: Author URL: https://colorlib.com
+    :: Description: Karl is smart & elegant fashion e-commerce Template. It's suitable for all e-commerce business platform. It's super responsive for all      Desktop/Mobile layout.
+    :: Version: 1.0
+    :: Created: 09 January 2018
+    :: Last Updated: 09 January 2018
+    ---------------------------------------------------------- */
+
+    /* -------------------------------------------------
+    ============ PLACE YOUR CUSTOM CSS HERE ============
+    ------------------------------------------------- */
+    #karl-navbar{
+        padding-top: 35px;
+    }
+    .active{
+        background-color: #f0bfc2;
+    }
+    .cart_quantity{
+        background-color: #f0bfc2;
+    }
+    .cart{
+        padding-top: 35px;
+    }
+    .btn{
+        background-color: green;
+        border-color: green;
+        border-radius: 50px;
+    }
+    .sign{
+        background-color: red;
+        border-color: red;
+    }
+    #search{
+        background-color: white;
+        border-radius: 50px;
+        padding-left: 20px;
+        border-color: black;
+    }
+    #btn-cart{
+        background-color: grey;
+    }
+    #btn-checkout{
+        background-color: #f0bfc2;
+    }
+    .welcome_slides.owl-carousel .owl-dot.active {
+        background-color: #f0bfc2;
+        border-color: #f0bfc2;
+    }
+    .product-description .add-to-cart-btn {
+        color: #f0bfc2;
+    }
+    .product-img > img {
+        height:400px;
+        width:300px;
+    }
+    .quickview_body .top_seller_product_rating > i{
+        color: #f0bfc2;
+    }
+    .quickview_body .cart-submit{
+        background-color: #f0bfc2;
+    }
+    .quickview_body .cart-submit:hover{
+        background-color: grey;
+    }
+
+    .single_catagory_area:after{
+        background-color: grey;
+    }
+    #shop_button{
+        background-color: grey;
+        border-color: grey;
+        margin-top: 350px;
+    }
+    #shop_button:hover{
+        background-color: #f0bfc2;
+        border-color: #f0bfc2;
+        color: white;
+
+    }
+    .karl-testimonials-slides.owl-carousel .owl-dot.active{
+        background-color: #f0bfc2;
+        border-color: #f0bfc2;
+    }
+    .single-testimonial-area{
+        background-color: white;
+        padding-bottom: 10px;
+    }
+    .testi-data{
+        color: white;
+    }
+    .subscribtion_form .submit{
+        background-color: #f0bfc2;
+        border-color: #f0bfc2; 
+    }
+    .subscribtion_form .submit:hover{
+        background-color: grey;
+        border-color: white;
+    }
+    #scrollUp {
+        background-color: #4c4c4c;
+        border-radius: 50px;
+    }
+    #item{
+        background-color: white;
+    }
+    #addtocart{
+        background-color: #f0bfc2;
+        border-color: #f0bfc2;  
+    }
+    #addtocart:hover{
+        background-color: grey;
+        border-color: white; 
+    }
+    .single_product_desc .single_product_ratings i{
+       color: #f0bfc2; 
+    }
+    #pagination{
+        color: #f0bfc2;
+        border-color: #f0bfc2;
+    }
+    #pagination1:hover{
+        color: #f0bfc2;
+        border-color: #f0bfc2;
+    }
+    .here{
+        background-color: #f0bfc2;
+    }
+    .catagory-content{
+        width:400px;
+        height: 450px;
+    }
+    .footer_area{
+        background-color: #ff1493;
+        height: 20px;
+        padding: 30px 0 50px;
+    }
+    .footertext{
+        color: white;
+    }
+    .media-body{
+        margin-top: 100px;
+    }
+    .carousel-item {
+        background: none;
+    }
+
+    .gallery-cell {
+      width: 200px;
+      height: 200px;
+      margin-right: 10px;
+    }
+
+    .gallery-cell:before {
+      display: block;
+      text-align: center;
+      line-height: 200px;
+      font-size: 80px;
+      color: white;
+    }
+    .form-control{
+        margin-top: 30px;
+    }
+    .bg-dark{
+        background-color: #ff1493 !important;
+    }
+    .nav-item{
+        color: white!important;
+    }
+    .navbar-dark .navbar-nav .active>.nav-link, .navbar-dark .navbar-nav .nav-link.active, .navbar-dark .navbar-nav .nav-link.show, .navbar-dark .navbar-nav .show>.nav-link{
+        background-color: #ff1493 !important;
+        color: black;
+        
+    }
+    li.nav-item.active{
+        background: black;
+        height:40px;
+    }
+    a:hover{
+       color: black !important;
+       border-bottom-color: black !important;
+    }
+    button.navbar-toggler{
+        background: black;
+    }
+    .Started{
+        background-color: #ff1493 ;
+        height: 50px;
+    }
+    .welcome_slide_text h2{
+        color: #ff1493;
+    }
+    .welcome_slide_text h5{
+        color: white;
+    }
+    .body-search{
+       background-color: #ff1493 ; 
+    }
+    .sec1{
+        padding:20px;
+        margin:0px;
+    }
+    p{
+        font-weight: bold;
+    }
+    .nav-link{
+        padding:0.5rem 9rem;
+    }
+    .my-img{
+        height: 210px;
+        width: 350px;
+    }
+    .group{
+        margin: 3px;
+    }
